@@ -1,0 +1,4 @@
+*.tfstate
+*.log
+.env
+__pycache__/
